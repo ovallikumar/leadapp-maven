@@ -4,7 +4,7 @@ public interface User extends Domain{
 
 	String getFirstName();
 
-	void setFirstName(String surname);
+	void setFirstName(String Surname);
 
 	String getLastName();
 
